@@ -1,0 +1,13 @@
+img {
+  width: 50px;
+}
+
+.input-group {
+  width: 60% !important;
+  margin: auto;
+}
+
+main {
+  background: #161415 url(fondosBackground/fondo1.jpg) no-repeat center !important;
+  background-size: cover !important;
+}
